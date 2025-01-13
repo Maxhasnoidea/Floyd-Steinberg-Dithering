@@ -1,5 +1,5 @@
 # Floyd-Steinberg-Dithering
-Floyd-Steinberg Dithering by Daniel Shiffman improved for use by Max Dufner
+Floyd-Steinberg Dithering by Daniel Shiffman improved for use by Me
 
 Run Code,
 Uploade Picture,
